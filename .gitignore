@@ -1,6 +1,6 @@
-# Binary
-treehouse
-treehouse.exe
+# Binary (repo root only, so paths like .agents/skills/treehouse/ stay tracked)
+/treehouse
+/treehouse.exe
 result
 result-*
 dist/
