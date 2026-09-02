@@ -17,6 +17,8 @@ Treehouse is a Go CLI tool that manages a pool of git worktrees (or, with the op
 - `internal/process/` - in-use detection and lingering process termination for worktrees
 - `internal/shell/` - subshell spawning
 - `internal/ui/` - Y/n confirmation prompts
+- `.agents/skills/treehouse/SKILL.md` - the installable agent skill for this CLI; keep it in sync when a workflow or a safety default changes
+- `docs/axi-retrofit-spec.md` - audit of this CLI against the AXI principles, and the change list that would close the gaps
 
 ## Building
 
